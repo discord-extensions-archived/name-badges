@@ -2,8 +2,8 @@
 Some nice custom badges for next to usernames.
 
 ## Previews
-![Preview](https://raw.githubusercontent.com/LuckFire/NameBadges/master/Previews/UserPreview.png)
-![Preview](https://raw.githubusercontent.com/LuckFire/NameBadges/master/Previews/ModalPreview.png)
+![Preview](https://raw.githubusercontent.com/LuckFire/NameBadges/main/Previews/UserPreview.png)
+![Preview](https://raw.githubusercontent.com/LuckFire/NameBadges/main/Previews/ModalPreview.png)
 
 ## Installation
 For manual installation, go to  **your themes folder, open a command prompt / powershell / terminal / or git bash**  and enter the following:
