@@ -78,3 +78,21 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* Akkoza#8767 */
+[data-author-id="608851844244045835"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="608851844244045835"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/738968109288914976/762447572094550016/Honestlythefactitsalivingreligionasidethatwhole_69800bf474c0de640efc11038093499e.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
+
+/* Fuzzy#0004 */
+[data-author-id="215689512058224640"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="215689512058224640"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/738968109288914976/762451411152666624/shitterduxiforcolt.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
