@@ -24,3 +24,21 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* 𝖌𝖆𝖇𝖊#7384 */
+[data-author-id="492134292634337295"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="492134292634337295"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/524587767024582658.png?v=1) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
+
+/* Liam The Protogen#2501 */
+[data-author-id="441384103946878987"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="441384103946878987"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/678032580066410507.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
