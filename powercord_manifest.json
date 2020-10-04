@@ -1,0 +1,9 @@
+{
+    "name": "Name Badges",
+    "description": "Some nice custom badges for next to usernames.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "badges.css",
+    "consent": "false",
+    "license": "MIT"
+}
