@@ -16,7 +16,7 @@ For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-pas
 ```
 
 # Badge Request
-If you want your ***VERY*** own name badge, use the template below when making a pull request. I will add yours ASAP (most likely adding in batches). Images must be hosted on i.imgur or cdn.discordapp.
+If you want your ***VERY*** own name badge, use the template below when making a pull request (https://github.com/LuckFire/NameBadges/pulls). I will add yours ASAP (most likely adding in batches). Images must be hosted on i.imgur or cdn.discordapp.
 ```
 Username and Discrim: 
 User ID: 
