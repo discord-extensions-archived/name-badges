@@ -16,13 +16,13 @@ For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-pas
 ```
 
 # Badge Request
-If you want your ***VERY*** own name badge, use the template below when making a pull request. I will add yours ASAP (most likely adding in batches).
+If you want your ***VERY*** own name badge, use the template below when making a pull request. I will add yours ASAP (most likely adding in batches). Images must be hosted on i.imgur or cdn.discordapp.
 ```
 Username and Discrim: 
 User ID: 
 Image Link: 
 ```
-**Note that you can only have one badge. If you ever want your badge to be updated, make another pull request using the template above, but add on "UPDATE REQUEST".**
+Note that you are only allowed to have one badge, if you at any time want your badge updated, make another pull request but add on "UPDATE REQUEST" or something similar to indicate that you're wanting your badge updated.
 
 ## Credits 
 Ty botato aka mr cute panda for helping me figure out how to get it to appear on at least 1 of the user modals <3
