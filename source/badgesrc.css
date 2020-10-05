@@ -123,3 +123,22 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* Whippersnatch Pumpkinpatch#2008 */
+[data-author-id="245592600793317377"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="245592600793317377"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/713729995595317279/762580310906634260/download.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
+
+/* ANGER BRO#2131 */
+[data-author-id="417372538557956096"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="417372538557956096"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/418538118547898388/762638865575837766/2.0.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
+
