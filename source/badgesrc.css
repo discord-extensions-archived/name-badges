@@ -105,3 +105,12 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* Ryan.#0002 */
+[data-author-id="180769501552443403"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="180769501552443403"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/620711972312449034/762505641490120744/pump.gif) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
