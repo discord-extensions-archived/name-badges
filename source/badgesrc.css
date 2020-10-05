@@ -96,3 +96,12 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* Freeplay#5676 */
+[data-author-id="158296466119458816"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="158296466119458816"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://i.imgur.com/Fdkm5zS.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
