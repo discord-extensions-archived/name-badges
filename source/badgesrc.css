@@ -114,3 +114,12 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* Ariana aka deznuts#2929 */
+[data-author-id="424555688992309248"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="424555688992309248"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://i.imgur.com/mq3YHYv.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
