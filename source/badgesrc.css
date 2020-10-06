@@ -159,3 +159,12 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* arceus#0413 */
+[data-author-id="479451939243950091"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="479451939243950091"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/720701686036824084/763137268843413514/sticker.png) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
