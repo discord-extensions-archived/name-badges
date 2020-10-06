@@ -18,7 +18,7 @@ For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-pas
 # Badge Request
 If you want your ***VERY OWN*** name badge, make an issue request and I will add it as soon as I can. Note that you're only able to have one badge, so if at any time you want yours updated, make another issue request but add on "UPDATE REQUEST" or something similar that indicates that you want your badge updated.
 
-**NOTE: IMAGES MUST BE THE SAME HEIGHTxLENGTH, OTHERWISE IT'S GOING TO BREAK/LOOK WEIRD**
+**NOTE: IMAGES MUST BE THE SAME LENGTHxHEIGHT, OTHERWISE IT'S GOING TO BREAK/LOOK WEIRD**
 
 ## Credits 
 Ty botato aka mr cute panda for helping me figure out how to get it to appear on at least 1 of the user modals <3
