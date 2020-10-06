@@ -150,3 +150,12 @@
    padding: 0 10px 0 10px;
    margin-left: 2px;
 }
+
+/* DanKSpooKLy#1337 */
+[data-author-id="348918040248713217"] > .contents-2mQqc9 > .header-23xsNx > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="348918040248713217"] + .headerInfo-30uryT > .nameTag-2IFDfL > .discriminator-xUhQkU::after {
+   content: " ";
+   background: url(https://i.imgur.com/xSObeUv.gif) center/90% no-repeat;
+   padding: 0 10px 0 10px;
+   margin-left: 2px;
+}
