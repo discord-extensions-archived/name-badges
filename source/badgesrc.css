@@ -136,3 +136,10 @@
    content: " ";
    background: url(https://cdn.discordapp.com/attachments/720701686036824084/763137268843413514/sticker.png) center/90% no-repeat;
 }
+
+/* Klip#1337 */ 
+[data-author-id="349312657658216450"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="349312657658216450"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/745122924779929700.gif) center/90% no-repeat;
+}
