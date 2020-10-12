@@ -143,3 +143,17 @@
    content: " ";
    background: url(https://cdn.discordapp.com/emojis/745122924779929700.gif) center/90% no-repeat;
 }
+
+/* PlutonicPluto#9145 */
+[data-author-id="758805621767929866"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="758805621767929866"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/760722365293527060/765101459381157888/Cyan.png) center/90% no-repeat;
+}
+
+/* Taikutsunan#6781 */
+[data-author-id="334469240394481667"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="334469240394481667"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/691799184063594546/764995840145358899/unknown.png) center/90% no-repeat;
+}
