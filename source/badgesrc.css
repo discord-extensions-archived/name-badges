@@ -157,3 +157,10 @@
    content: " ";
    background: url(https://cdn.discordapp.com/attachments/691799184063594546/764995840145358899/unknown.png) center/90% no-repeat;
 }
+
+/* Panda^^#8612 */
+[data-author-id="605186191746138132"] > .contents-2mQqc9 > .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="605186191746138132"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/638108014901198913.gif?v=1) center/90% no-repeat;
+}
