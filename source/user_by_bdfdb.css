@@ -1,6 +1,141 @@
 /*                                user_by_bdfdb is from DevilBro's (garbage) library that adds extra elements.                                                */
-/*                                If you're using BDCompat and have a DB plguin, you most likely have these elements.                                         */
+/*                                If you're using BDCompat and have a DB plugin, you most likely have these elements.                                         */
 /*                                I in no way endorse the usage of this with powercord, it is entirely optional.                                              */
-/*                                This is to add badges in extra areas that normal elements can't reach (for those that DO have these elements.               */
+/*                                This is to add badges in extra areas that normal elements can't reach (for those that DO have these elements.)              */
 
-/* soon:tm: cause copy pasting code goes brrrr */
+/* LuckFire#4800 */
+.avatarWrapper-3H_478[user_by_bdfdb="399416615742996480"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/635936642372337674.png?v=1) center/90% no-repeat;
+}
+
+/* botato#6883 */
+.avatarWrapper-3H_478[user_by_bdfdb="440990343899643943"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   background: url(https://cdn.discordapp.com/attachments/755015869914152981/762392532268220466/EjF5ySqXgAEUtBm.jpg) center/90% no-repeat;
+}
+
+/* snapperito#0001 */
+.avatarWrapper-3H_478[user_by_bdfdb="431883840483491850"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/755015869914152981/762399113643425842/iu.png) center/90% no-repeat;
+}
+
+/* 𝖌𝖆𝖇𝖊#7384 */
+.avatarWrapper-3H_478[user_by_bdfdb="492134292634337295"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/524587767024582658.png?v=1) center/90% no-repeat;
+}
+
+/* Liam The Protogen#2501 */
+.avatarWrapper-3H_478[user_by_bdfdb="441384103946878987"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/678032580066410507.png) center/90% no-repeat;
+}
+
+/* om#1111 */
+.avatarWrapper-3H_478[user_by_bdfdb="682735971392815124"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/762426123656495165.png?v=1) center/90% no-repeat;
+}
+
+/* Hoofer#0001 */
+.avatarWrapper-3H_478[user_by_bdfdb="547951620235984906"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/620711972312449034/762505641490120744/pump.gif) center/90% no-repeat;
+}
+
+/* KoalaBeans#1246 */
+.avatarWrapper-3H_478[user_by_bdfdb="249521750465970177"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/762438597340430367.png) center/90% no-repeat;
+}
+
+/* ezist#7571 */
+.avatarWrapper-3H_478[user_by_bdfdb="632082248954282014"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/3k77hqg.png) center/90% no-repeat;
+}
+
+/* Akkoza#8767 */
+.avatarWrapper-3H_478[user_by_bdfdb="608851844244045835"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/738968109288914976/762447572094550016/Honestlythefactitsalivingreligionasidethatwhole_69800bf474c0de640efc11038093499e.png) center/90% no-repeat;
+}
+
+/* Fuzzy#0004 */
+.avatarWrapper-3H_478[user_by_bdfdb="21568951205822464"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/738968109288914976/762451411152666624/shitterduxiforcolt.png) center/90% no-repeat;
+}
+
+/* Freeplay#5676 */
+.avatarWrapper-3H_478[user_by_bdfdb="158296466119458816"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/Fdkm5zS.png) center/90% no-repeat;
+}
+
+/* Ryan.#0002 */
+.avatarWrapper-3H_478[user_by_bdfdb="180769501552443403"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/620711972312449034/762505641490120744/pump.gif) center/90% no-repeat;
+}
+
+/* Ariana aka deznuts#2929 */
+.avatarWrapper-3H_478[user_by_bdfdb="424555688992309248"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/mq3YHYv.png) center/90% no-repeat;
+}
+
+/* Whippersnatch Pumpkinpatch#2008 */
+.avatarWrapper-3H_478[user_by_bdfdb="245592600793317377"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/713729995595317279/762580310906634260/download.png) center/90% no-repeat;
+}
+
+/* ANGER BRO#2131 */
+.avatarWrapper-3H_478[user_by_bdfdb="417372538557956096"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/418538118547898388/762638865575837766/2.0.png) center/90% no-repeat;
+}
+
+/* azumi#6464 */
+.avatarWrapper-3H_478[user_by_bdfdb="197899789252165632"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/0hbRrJv.png) center/90% no-repeat;
+}
+
+/* DanKSpooKLy#1337 */
+.avatarWrapper-3H_478[user_by_bdfdb="348918040248713217"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/xSObeUv.gif) center/90% no-repeat;
+}
+
+/* arceus#0413 */
+.avatarWrapper-3H_478[user_by_bdfdb="479451939243950091"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/720701686036824084/763137268843413514/sticker.png) center/90% no-repeat;
+}
+
+/* Klip#1337 */ 
+.avatarWrapper-3H_478[user_by_bdfdb="349312657658216450"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/745122924779929700.gif) center/90% no-repeat;
+}
+
+/* PlutonicPluto#9145 */
+.avatarWrapper-3H_478[user_by_bdfdb="758805621767929866"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/760722365293527060/765101459381157888/Cyan.png) center/90% no-repeat;
+}
+
+/* Taikutsunan#6781 */
+.avatarWrapper-3H_478[user_by_bdfdb="334469240394481667"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/691799184063594546/764995840145358899/unknown.png) center/90% no-repeat;
+}
+
+/* Panda^^#8612 */
+.avatarWrapper-3H_478[user_by_bdfdb="605186191746138132"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/638108014901198913.gif?v=1) center/90% no-repeat;
+}
