@@ -139,3 +139,15 @@
    content: " ";
    background: url(https://cdn.discordapp.com/emojis/638108014901198913.gif?v=1) center/90% no-repeat;
 }
+
+/* PoorPockets McNewHold#1984 */
+.avatarWrapper-3H_478[user_by_bdfdb="277173061973835778"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/7ugPOvO.png) center/90% no-repeat;
+}
+
+/* Curvu#0254 */
+.avatarWrapper-3H_478[user_by_bdfdb="323104036066951168"] + .headerText-2sdzFM > .flex-1xMQg5 > .nameTag-m8r81H > .username-2b1r56::after {
+   content: " ";
+   background: url(https://imgur.com/DclUwaS) center/90% no-repeat;
+}
