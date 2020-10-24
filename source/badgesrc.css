@@ -180,3 +180,10 @@
    content: " ";
    background: url(https://i.imgur.com/DclUwaS_d.png) center/90% no-repeat;
 }
+
+/* wholesome kris.#4149 */
+[src*="https://cdn.discordapp.com/avatars/330544247042473984"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="330544247042473984"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after {
+   content: " ";
+   background: url(https://i.imgur.com/0bHr7MP.png) center/90% no-repeat;
+}
