@@ -1,6 +1,3 @@
-# REPO ARCHIVED
-Because of a recent update (10/20/2020), badges no longer appear next to names in chat. This repo has been archived since the main use of it is basically dead lol
-
 # Name Badges
 Some nice custom badges for next to usernames. If you want your own custom one, please read https://github.com/LuckFire/NameBadges#badge-request.
 
