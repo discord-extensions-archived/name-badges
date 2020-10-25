@@ -192,9 +192,9 @@
 }
 
 /* PoorPockets McNewHold#1984 */
-[src*="https://cdn.discordapp.com/avatars/605186191746138132"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
-.avatar-3EQepX[data-user-id="605186191746138132"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
-[style*="605186191746138132"] + .usernameFont-aFalyR::after {
+[src*="https://cdn.discordapp.com/avatars/277173061973835778"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="277173061973835778"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="277173061973835778"] + .usernameFont-aFalyR::after {
    content: " ";
    background: url(https://i.imgur.com/7ugPOvO.png) center/90% no-repeat;
 }
