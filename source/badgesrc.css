@@ -214,3 +214,19 @@
    content: " ";
    background: url(https://i.imgur.com/0bHr7MP.png) center/90% no-repeat;
 }
+
+/* Lucas🧦#6500 */
+[src*="https://cdn.discordapp.com/avatars/256815446802694144"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="256815446802694144"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="256815446802694144"] + .usernameFont-aFalyR::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/738968109288914976/771057075785957397/Monke2.png) center/90% no-repeat;
+}
+
+/* mirlia#5920 */
+[src*="https://cdn.discordapp.com/avatars/510664042990403584"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="510664042990403584"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="510664042990403584"] + .usernameFont-aFalyR::after {
+   content: " ";
+   background: url(https://i.imgur.com/VIwlSHT.png) center/90% no-repeat;
+}
