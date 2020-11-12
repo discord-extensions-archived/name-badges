@@ -252,3 +252,11 @@
    content: " ";
    background: url(https://cdn.discordapp.com/attachments/760042880491716608/772715964114534430/pinpng.com-png-tumblr-transparent-donut-2723629.png) center/90% no-repeat;
 }
+
+/* absol#0666 */
+[src*="https://cdn.discordapp.com/avatars/194830015353847817"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="194830015353847817"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="194830015353847817"] + .usernameFont-aFalyR::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/attachments/765149162752180264/776365646757101588/clear_.png) center/90% no-repeat;
+}
