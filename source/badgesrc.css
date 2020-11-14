@@ -252,3 +252,19 @@
    content: " ";
    background: url(https://cdn.discordapp.com/attachments/760042880491716608/772715964114534430/pinpng.com-png-tumblr-transparent-donut-2723629.png) center/90% no-repeat;
 }
+
+/* liām#7708 */
+[src*="https://cdn.discordapp.com/avatars/627459424461783040"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="627459424461783040"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="627459424461783040"] + .usernameFont-aFalyR::after {
+   content: " ";
+   background: url(https://cdn.discordapp.com/emojis/742918925364232232.png?v=1) center/90% no-repeat;
+}
+
+/* wyber#0001 */
+[src*="https://cdn.discordapp.com/avatars/639580234349281300"] + .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after,
+.avatar-3EQepX[data-user-id="639580234349281300"] + .headerInfo-30uryT > .nameTag-2IFDfL > .username-2b1r56::after,
+[style*="639580234349281300"] + .usernameFont-aFalyR::after {
+   content: " ";
+   background: url(https://media.discordapp.net/attachments/767493692243443736/776910014773592122/Wikipe-tan_GothLoli.png?width=500&height=584) center/90% no-repeat;
+}
