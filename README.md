@@ -20,7 +20,7 @@ git pull
 ```
 
 # Badge Request
-I get it, you want your **VERY OWN** name badge, but you may be asking: "omG lcuKFiRE hoW do ig ET CooL nAMemBADGe?!?!", well.. the process is pretty simple actually. Make an issue request on this repo (https://github.com/LuckFire/NameBadges/issues/new), fill out the form given and I'll update it to give you your badge as soon as I can. Usually I'll close the repo, so look out for that. Once I add your badge, make sure you update the theme so you can get it!
+I get it, you want your **VERY OWN** name badge, but you may be asking: "omG lcuKFiRE hoW do ig ET CooL nAMemBADGe?!?!", well.. the process is pretty simple actually. Make an issue request on this repo (https://github.com/LuckFire/NameBadges/issues/new), fill out the form given and I'll update it to give you your badge as soon as I can. Usually I'll close the issue request, so look out for that. Once I add your badge, make sure you update the theme so you can get it!
 
 **NOTE: IMAGES MUST BE HOSTED ON A TRUSTED DOMAIN (such as i.imgur or cdn.discordapp) AND SHOULD BE THE SAME WIDTHxHEIGHT TO PREVENT IT FROM LOOKING WEIRD**
 
