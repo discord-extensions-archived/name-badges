@@ -1,5 +1,5 @@
 ## Recent Changes (v1.1.0)
-In order for better maintainability, I recoded this to be in SCSS instead of CSS. You may be asking "well, what's the difference!?!? do i still have my badge?!??!!" First off, there really isn't much of a difference besides it's easier for me to work with and is less of an eye sore. Secondly, yes you still have your badge. If you have name badges before this update, make sure you reinstall the theme completely to prevent any issues. If your badge isn't appearing, make an issue request and ill look into it.
+In order for better maintainability, I recoded this to be in SCSS instead of CSS. You may be asking "well, what's the difference!?!? do i still have my badge?!??!!" First off, there really isn't much of a difference besides it's easier for me to work with and is less of an eye sore. Secondly, yes you still have your badge. If you have name badges before this update, make sure you reinstall the theme completely to prevent any issues. If you're using the import, you have to install the theme as is because you cannot import an SCSS file. If your badge isn't appearing, make an issue request and ill look into it. 
 
 # Name Badges
 Some nice custom badges for next to usernames. If you want your own custom one, please read https://github.com/LuckFire/NameBadges#badge-request.
