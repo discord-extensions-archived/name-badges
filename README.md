@@ -17,7 +17,7 @@ For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-pas
 ```
 
 # Badge Request
-If you want your ***VERY OWN*** name badge, make an issue request and I will add it as soon as I can. Note that you're only able to have one badge, so if at any time you want yours updated, make another issue request but add on "UPDATE REQUEST" or something similar that indicates that you want your badge updated. Images must be hosted on i.imgur, or cdn.discordapp.
+If you want your ***VERY OWN*** name badge, make an issue request (https://github.com/LuckFire/NameBadges/issues/new) and I will add it as soon as I can. Note that you're only able to have one badge, so if at any time you want yours updated, make another issue request but add on "UPDATE REQUEST" or something similar that indicates that you want your badge updated. Images must be hosted on i.imgur, or cdn.discordapp.
 
 **NOTE: IMAGES MUST BE THE SAME LENGTHxHEIGHT, OTHERWISE IT'S GOING TO BREAK/LOOK WEIRD**
 
