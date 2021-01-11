@@ -1,25 +1,25 @@
 # Name Badges
 Some nice custom badges for next to usernames. If you want your own custom one, please read https://github.com/LuckFire/NameBadges#badge-request.
 
-## Previews
+# Previews
 ![Preview](./Previews/UsermodalPreview.png)
-![Preview](./Previews/VoicePreview.png)
 ![Preview](./Previews/MessagePreview.png)
 
-## Installation
-For manual installation, go to  **your themes folder, open a command prompt / powershell / terminal / or git bash**  and enter the following:
+# Installation & Updating
+For installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
 ```
 git clone https://github.com/LuckFire/NameBadges
 ```
-For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-paste the following code:
+
+Since Powercord's updater is currently broken, you have to update the theme manually. In order to do this, go to **Themes -> Nicer-User-Connections -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
 ```
-@import url("https://raw.githack.com/LuckFire/NameBadges/main/source/badgesrc.css");
+git pull
 ```
 
 # Badge Request
-If you want your ***VERY OWN*** name badge, make an issue request (https://github.com/LuckFire/NameBadges/issues/new) and I will add it as soon as I can. Note that you're only able to have one badge, so if at any time you want yours updated, make another issue request but add on "UPDATE REQUEST" or something similar that indicates that you want your badge updated. Images must be hosted on i.imgur, or cdn.discordapp.
+I get it, you want your **VERY OWN** name badge, but you may be asking: "omG lcuKFiRE hoW do ig ET CooL nAMemBADGe?!?!", well.. the process is pretty simple actually. Make an issue request on this repo (https://github.com/LuckFire/NameBadges/issues/new), fill out the form given and I'll update it to give you your badge as soon as I can. Usually I'll close the repo, so look out for that. Once I add your badge, make sure you update the theme so you can get it!
 
-**NOTE: IMAGES MUST BE THE SAME LENGTHxHEIGHT, OTHERWISE IT'S GOING TO BREAK/LOOK WEIRD**
+**NOTE: IMAGES MUST BE HOSTED ON A TRUSTED DOMAIN (such as i.imgur or cdn.discordapp) AND SHOULD BE THE SAME WIDTHxHEIGHT TO PREVENT IT FROM LOOKING WEIRD**
 
 ## Credits 
 Ty botato aka mr cute panda for helping me figure out how to get it to appear on at least 1 of the user modals <3
