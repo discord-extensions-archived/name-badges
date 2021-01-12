@@ -53,7 +53,7 @@
     // Pandaaa#8612
     &[data-user-id="605186191746138132"] { @include username(url('https://cdn.discordapp.com/emojis/638108014901198913.gif?v=1')); }
     // PoorPockets McNewHold#1984
-    &[data-author-id="277173061973835778"] { @include username(url('https://i.imgur.com/7ugPOvO.png')); }
+    &[data-user-id="277173061973835778"] { @include username(url('https://i.imgur.com/7ugPOvO.png')); }
     // Curvu#0254
     &[data-user-id="323104036066951168"] { @include username(url('https://i.imgur.com/DclUwaS_d.png')); }
     // wholesome kris.#4149
@@ -77,7 +77,7 @@
     // tale#0042
     &[data-user-id="66188246706552832"] { @include username(url('https://cdn.discordapp.com/emojis/777208120392810517.png?v=1')); }
     // Hop#7919
-    &[data-authorid="255488840301674497"] { @include username(url('https://cdn.discordapp.com/attachments/767046925228703784/792519168003276800/owo.png')); }
+    &[data-user-id="255488840301674497"] { @include username(url('https://cdn.discordapp.com/attachments/767046925228703784/792519168003276800/owo.png')); }
     // jakefaith#6001
-    &[data-authorid="301088721984552961"] { @include username(url('https://cdn.discordapp.com/attachments/458755142532071426/792176982473310208/emote.png')) }
+    &[data-user-id="301088721984552961"] { @include username(url('https://cdn.discordapp.com/attachments/458755142532071426/792176982473310208/emote.png')) }
 }
