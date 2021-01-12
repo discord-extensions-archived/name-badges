@@ -77,7 +77,9 @@
     // tale#0042
     &[data-author-id="66188246706552832"] { @include username(url('https://cdn.discordapp.com/emojis/777208120392810517.png?v=1')); }
     // Hop#7919
-    &[data-authorid="255488840301674497"] { @include username(url('https://cdn.discordapp.com/attachments/767046925228703784/792519168003276800/owo.png')); }
+    &[data-author-id="255488840301674497"] { @include username(url('https://cdn.discordapp.com/attachments/767046925228703784/792519168003276800/owo.png')); }
     // jakefaith#6001
-    &[data-authorid="301088721984552961"] { @include username(url('https://cdn.discordapp.com/attachments/458755142532071426/792176982473310208/emote.png')) }
+    &[data-author-id="301088721984552961"] { @include username(url('https://cdn.discordapp.com/attachments/458755142532071426/792176982473310208/emote.png')) }
+    // KortyBoi#0001
+    &[data-author-id="167335587488071682"] { @include username(url('https://i.imgur.com/sIfbQfU.png')); }
 }
