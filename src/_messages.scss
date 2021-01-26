@@ -24,8 +24,8 @@
     &[data-author-id="249521750465970177"] { @include username(url('https://cdn.discordapp.com/emojis/762438597340430367.png')); }
     // ezist#7571
     &[data-author-id="632082248954282014"] { @include username(url('https://i.imgur.com/3k77hqg.png')); }
-    // Akkoza#8767
-    &[data-author-id="608851844244045835"] { @include username(url('https://cdn.discordapp.com/attachments/738968109288914976/767095382400041020/uRrxAmOB_400x400.png')); }
+    // Akkoza#8767, Akkoza#3400
+    &[data-author-id="608851844244045835"], &[data-author-id="703448942519517246"] { @include username(url('https://cdn.discordapp.com/attachments/738968109288914976/767095382400041020/uRrxAmOB_400x400.png')); }
     // Fuzzy#5997
     &[data-author-id="215689512058224640"] { @include username(url('https://i.imgur.com/iiGtbj1.png')); }
     // Freeplay#5676
