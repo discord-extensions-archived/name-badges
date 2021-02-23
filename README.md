@@ -14,7 +14,7 @@ For installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash
 git clone https://github.com/Discord-Theme-Addons/discord-name-badges
 ```
 
-Since Powercord's updater is currently broken, you have to update the theme manually. In order to do this, go to **Themes -> Nicer-User-Connections -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
+Since Powercord's updater is currently broken, you have to update the theme manually. In order to do this, go to **Themes -> discord-name-badges -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
 ```
 git pull
 ```
