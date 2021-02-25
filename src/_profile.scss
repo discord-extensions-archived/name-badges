@@ -1,4 +1,8 @@
 @mixin username($badge) {
+    + .header-30uryT .username-2b1r56::after {
+        content: " ";
+        background: $badge center/90% no-repeat;
+    }
     .username-2b1r56::after {
         content: " ";
         background: $badge center/90% no-repeat;
