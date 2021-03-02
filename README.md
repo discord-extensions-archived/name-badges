@@ -13,7 +13,7 @@ I get it, you want your **VERY OWN** custom name badge, but you may be wondering
 # Installation
 I see you have your badge, congrats! Installation time: for **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
 ```
-git clone https://github.com/Discord-Theme-Addons/statuspicker-plus
+git clone https://github.com/Discord-Theme-Addons/discord-name-badges
 ```
 
 ## Credits 
