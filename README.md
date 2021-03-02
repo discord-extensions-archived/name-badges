@@ -1,28 +1,22 @@
-## Recent Changes (v1.1.0)
-In order for better maintainability, I recoded this to be in SCSS instead of CSS. You may be asking "well, what's the difference!?!? do i still have my badge?!??!!" First off, there really isn't much of a difference besides it's easier for me to work with and is less of an eye sore. Secondly, yes you still have your badge. If you have name badges before this update, make sure you reinstall the theme completely to prevent any issues. If you're using the import, you have to install the theme as is because you cannot import an SCSS file. If your badge isn't appearing/appearing properly, make an issue request and ill look into it. 
+![Banner](./assets/banner.png)
 
 # Discord Name Badges
 Some nice custom badges for next to usernames. If you want your own custom one, please read https://github.com/Discord-Theme-Addons/discord-name-badges#badge-request.
 
-# Previews
-![Preview](./Previews/UsermodalPreview.png)
-![Preview](./Previews/MessagePreview.png)
-
-# Installation & Updating
-For installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
-```
-git clone https://github.com/Discord-Theme-Addons/discord-name-badges
-```
-
-Since Powercord's updater is currently broken, you have to update the theme manually. In order to do this, go to **Themes -> discord-name-badges -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
-```
-git pull
-```
+![Preview](./screenshots/UsermodalPreview.png)
+![Preview](./screenshots/MessagePreview.png)
 
 # Badge Request
-I get it, you want your **VERY OWN** name badge, but you may be asking: "omG lcuKFiRE hoW do ig ET CooL nAMemBADGe?!?!", well.. the process is pretty simple actually. Make an issue request on this repo (https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new), fill out the form given and I'll update it to give you your badge as soon as I can. Usually I'll close the issue request, so look out for that. Once I add your badge, make sure you update the theme so you can get it!
+I get it, you want your ***VERY OWN*** custom name badge, but you may be wondering to yourself "omG lUCkFiRE HoW dO gET CoOL nAMeBAdge/!?!?", well.. the process is a lot more simplier than you would think. Make an **[issue request](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new)** on this repo, and fill out the form. I'll update to give you your badge as soon as I can. Be on the lookout for me adding your badge, cause usually I close the issue request and comment on it when I add it. Once I've added your badge, make sure you update the theme to get it!
+- **NOTE: IMAGES MUST BE HOSTED ON A TRUSTED DOMAIN (such as i.imgur or cdn.discordapp) AND SHOULD BE THE SAME WIDTHxHEIGHT TO PREVENT IT FROM LOOKING WEIRD**
 
-**NOTE: IMAGES MUST BE HOSTED ON A TRUSTED DOMAIN (such as i.imgur or cdn.discordapp) AND SHOULD BE THE SAME WIDTHxHEIGHT TO PREVENT IT FROM LOOKING WEIRD**
+# Installation
+I see you have your badge, congrats! Installation time: for **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
+```
+git clone https://github.com/Discord-Theme-Addons/statuspicker-plus
+```
 
 ## Credits 
-Ty botato aka mr cute panda for helping me figure out how to get it to appear on at least 1 of the user modals <3
+Thank you to [botato](https://github.com/bototo2) (aka mr cute panda) for helping me learn a bit more CSS to make it appear on at least 1 of the user modals.
+
+Thank you to [Hoofer](https://github.com/HooferDevelops) for helping me maintain this, as well as adding basic Vizality support.
