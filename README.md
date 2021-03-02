@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 # Discord Name Badges
-Some nice custom badges for next to usernames. If you want your own custom one, please read https://github.com/Discord-Theme-Addons/discord-name-badges#badge-request.
+Some nice custom badges for next to usernames. If you want your OWN, COOL AMAZING CUSTOM badge, please read the **[badge request](https://github.com/Discord-Theme-Addons/discord-name-badges#badge-request)** segment of this readme.
 
 ![Preview](./screenshots/UsermodalPreview.png)
 ![Preview](./screenshots/MessagePreview.png)
