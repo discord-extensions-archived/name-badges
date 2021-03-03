@@ -28,7 +28,7 @@
     &[data-user-id="632082248954282014"] { @include badge(url('https://i.imgur.com/3k77hqg.png')); }
     // Akkoza#8767, Akkoza#3400
     &[data-user-id="608851844244045835"], 
-    &[data-author-id="703448942519517246"] { @include badge(url('https://cdn.discordapp.com/attachments/738968109288914976/767095382400041020/uRrxAmOB_400x400.png')); }
+    &[data-user-id="703448942519517246"] { @include badge(url('https://cdn.discordapp.com/attachments/738968109288914976/767095382400041020/uRrxAmOB_400x400.png')); }
     // Fuzzy#5997
     &[data-user-id="215689512058224640"] { @include badge(url('https://i.imgur.com/iiGtbj1.png')); }
     // Freeplay#5676
@@ -91,4 +91,6 @@
     &[data-user-id="692206224745431161"] { @include badge(url('https://cdn.discordapp.com/attachments/738968109288914976/814277620702511114/853759-cirno.png')); }
     // Pavui#0296
     &[data-user-id="597072695875600385"] { @include badge(url('https://cdn.discordapp.com/emojis/722928624231120976.png?v=1')); }
+    // bakzkndd#2819
+    &[data-user-id="343103632453009408"] { @include badge(url('https://cdn.discordapp.com/emojis/816451733285896193.gif')); }
 }
