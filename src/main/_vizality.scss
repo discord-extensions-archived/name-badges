@@ -1,4 +1,6 @@
 @mixin badge($badge) {
+    .header-23xsNx .username-1A8OIy, // Messages
+    &.userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child, // User Popout Modals
     .nameTag-m8r81H .username-3gJmXY, // Profile Modals
     .name-uJV0GL .roleColor-rz2vM0, // Memberlist
     .name-uJV0GL .overflow-WK9Ogt, // DMs List
@@ -12,7 +14,7 @@
     }
 }
 
-[vizality] #app-mount {
+#app-mount {
     // LuckFire#4800
     [vz-user-id="399416615742996480"] { @include badge(url('https://cdn.discordapp.com/emojis/635936642372337674.png?v=1')); }
     // botato#6883

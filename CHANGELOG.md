@@ -1,3 +1,6 @@
+# v1.1.5
+Vizlaity finally has the vz-user-id attribute on message, as well as on user modal popouts. Messages will no longer use the src*= magic attribute, so there should be some optimization. I also changed the files that the manifests target, so whichever client mod you're using will target the proper files.
+
 # v1.1.4
 A small change for the future: restructured the file structure a bit to separate Powercord and Vizality better. Since the data-author-id attribute is originally a Powercord one, once Vizlaity re-adds the vz-user-id attribute to messages I can change some things back over. For now, it'll continue using src*=. (which is probably gonna be really unoptimized)
 - **BUG:** An issue I found out with doing it this way is since it relys on the user's profile picture url, if the user removes their profile picture, the badge will not show as Discord uses a special asset for default profile pictures.
