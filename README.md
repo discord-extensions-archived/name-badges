@@ -6,11 +6,40 @@ Some nice custom badges for next to usernames. If you want your OWN, COOL AMAZIN
 ![Preview](./screenshots/UsermodalPreview.png)
 ![Preview](./screenshots/MessagePreview.png)
 
-# Badge Request
-I get it, you want your **VERY OWN** custom name badge, but you may be wondering to yourself, "omG lUCkFiRE HoW dO gET CoOL nAMeBAdge/!?!?" well.. the process is a lot simpler than you would think. Make an **[issue request](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new)** on this repo, and fill out the form. I'll update to give you your badge as soon as I can. Be on the lookout for your badge being added because usually hoof or I close the issue request and comment on it when I add it. Once I've added your badge, make sure you update the theme to get it!
+## Get Your Own
+I get it, you want your **VERY OWN** custom name badge, but you may be wondering to yourself, "omG lUCkFiRE HoW dO gET CoOL nAMeBAdge/!?!?" well.. the process is a lot simpler than you would think. 
+
+Make an **[issue request](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new)** on this repo, and fill out the form. I'll update to give you your badge as soon as I can. Be on the lookout for your badge being added because usually hoof or I close the issue request and comment on it when I add it. Once I've added your badge, make sure you update the theme to get it!
 - **NOTE: IMAGES MUST BE HOSTED ON A TRUSTED DOMAIN (such as i.imgur or cdn.discordapp) AND SHOULD BE THE SAME WIDTHxHEIGHT TO PREVENT IT FROM LOOKING WEIRD**
 
-# Installation
+If you don't like waiting, you can add your badge yourself! However, this process may be complicated for some people so I recommend just waiting. If you know what you're doing, proceed to follow the steps listed.
+- **NOTE: IF YOU ADD YOUR BADGE THIS WAY, OTHERS WILL NOT BE ABLE TO SEE IT.**
+
+### Powercord:
+1. Head over to `./src/main/powercord` and open `_messages.scss` and `_profile.scss`
+2. In `_messages.scss`, make a new line and enter:
+```scss
+[src*="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+// Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
+```
+3. In `_profile.scss`, make a new line and enter:
+```scss
+&[data-user-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+// Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
+```
+4. Make sure you save everything. Your badge should now appear if you've done everything right.
+
+### Vizality
+1. Head over to `./src/main` an open `./_vizality.scss`.
+2. In this file, add a new line an enter:
+```scss
+[vz-user-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+// Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
+```
+4. Make sure you save everything. Your badge should now appear if you've done everything right.
+
+
+## Installation
 I see you have your badge, congrats! Installation time: for **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
 ```
 git clone https://github.com/Discord-Theme-Addons/discord-name-badges
