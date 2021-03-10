@@ -1,5 +1,5 @@
 # v1.1.6
-Yet another enhancement update (well for me at least). Leartn something new with mixins: you can have a variable set in them. Using this, I can make the layout of everything practically the same, I'd only have the change the name of the mixin. This makes it easier for me to add badges to other files. Here's a basic example of that:
+Yet another enhancement update (well for me at least). Learnt something new with mixins: you can have a variable set in an attribute using them. With this information, I can make the layout of everything practically the same, I'd only have the change the name of the mixin. This makes it easier for me to add badges to other files. Here's a basic example of that:
 ```scss
 // Taking a close look, you can see how this is applied.
 @mixin messageBadge($userID, $badgeLink) {
