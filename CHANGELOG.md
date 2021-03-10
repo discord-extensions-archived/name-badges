@@ -12,7 +12,7 @@ Yet another enhancement update (well for me at least). Learnt something new with
         }
     }
 }
-                   // #userID               $badgeLink
+                   // $userID               $badgeLink
 @include messageBadge("399416615742996480", 'https://cdn.discordapp.com/emojis/635936642372337674.png?v=1');
 ```
 Following this update, I had to do some wonky copy-pasting. If your badge isn't appearing right, submit an issue request asking for a fix.
