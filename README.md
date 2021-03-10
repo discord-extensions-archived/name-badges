@@ -41,6 +41,12 @@ I see you have your badge, congrats! Installation time: for **[Powercord](http:/
 git clone https://github.com/Discord-Theme-Addons/discord-name-badges
 ```
 
+#### For BetterDiscord:
+In order for this to work on BetterDiscord, you need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I don't reccomend using this as it can cause performance issues, due to it not being optimized that well. Proceed at your own risk.
+- [Direct Download](https://betterdiscord.net/ghdl?id=3555)
+- [View Source](https://raw.githack.com/Discord-Theme-Addons/discord-name-badges/main/src/main/betterdiscord/NameBadges.theme.css)
+
+
 ## Credits 
 Thank you to [botato](https://github.com/bototo2) (aka mr cute panda) for helping me learn a bit more CSS to make it appear on at least 1 of the user modals.
 
