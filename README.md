@@ -15,7 +15,7 @@ If you don't like waiting, you can add your badge yourself! However, this proces
 1. Head over to `./src/main/powercord` and open `_messages.scss` and `_profile.scss`
 2. In `_messages.scss`, make a new line and enter:
 ```scss
-[src*="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+&[data-author-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
 // Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
 ```
 3. In `_profile.scss`, make a new line and enter:
