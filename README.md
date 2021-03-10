@@ -15,12 +15,12 @@ If you don't like waiting, you can add your badge yourself! However, this proces
 1. Head over to `./src/main/powercord` and open `_messages.scss` and `_profile.scss`
 2. In `_messages.scss`, make a new line and enter:
 ```scss
-&[data-author-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+@include messageBadge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
 // Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
 ```
 3. In `_profile.scss`, make a new line and enter:
 ```scss
-&[data-user-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+@include profileBadge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
 // Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
 ```
 4. Make sure you save everything. Your badge should now appear if you've done everything right.
@@ -29,7 +29,7 @@ If you don't like waiting, you can add your badge yourself! However, this proces
 1. Head over to `./src/main` an open `./_vizality.scss`.
 2. In this file, add a new line an enter:
 ```scss
-[vz-user-id="YOUR_USER_ID"] { @include badge(url('YOUR_BADGE_IMAGE')); }
+@include badge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
 // Make sure you replace YOUR_USER_ID with your User ID and YOUR_BADGE_IMAGE with the url you want as your badge.
 ```
 4. Make sure you save everything. Your badge should now appear if you've done everything right.

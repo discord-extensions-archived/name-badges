@@ -1,0 +1,21 @@
+@mixin messageBadge($userID, $badgeLink) {
+    .message-2qnXI6[data-author-id="#{$userID}"] {
+        .header-23xsNx .username-1A8OIy::after {
+            content: " ";
+            background: url($badgeLink) center/90% no-repeat;
+            padding: 0 10px 0 10px;
+            margin-left: 2px;
+        }
+    }
+}
+
+@mixin profileBadge($userID, $badgeLink) {
+    .avatar-3EQepX[data-user-id="#{$userID}"] {
+        + .headerInfo-30uryT .username-2b1r56::after {
+            content: " ";
+            background: url($badgeLink) center/90% no-repeat;
+            padding: 0 10px 0 10px;
+            margin-left: 2px;
+        }
+    }
+}

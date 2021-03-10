@@ -1,3 +1,22 @@
+# v1.1.6
+Yet another enhancement update (well for me at least). Leartn something new with mixins: you can have a variable set in them. Using this, I can make the layout of everything practically the same, I'd only have the change the name of the mixin. This makes it easier for me to add badges to other files. Here's a basic example of that:
+```scss
+// Taking a close look, you can see how this is applied.
+@mixin messageBadge($userID, $badgeLink) {
+    .message-2qnXI6[data-author-id="#{$userID}"] {
+        .header-23xsNx .username-1A8OIy::after {
+            content: " ";
+            background: url($badgeLink) center/90% no-repeat;
+            padding: 0 10px 0 10px;
+            margin-left: 2px;
+        }
+    }
+}
+                   // #userID               $badgeLink
+@include messageBadge("399416615742996480", 'https://cdn.discordapp.com/emojis/635936642372337674.png?v=1');
+```
+Following this update, I had to do some wonky copy-pasting. If your badge isn't appearing right, submit an issue request asking for a fix.
+
 # v1.1.5
 Vizlaity finally has the vz-user-id attribute on message, as well as on user modal popouts. Messages will no longer use the src*= magic attribute, so there should be some optimization. I also changed the files that the manifests target, so whichever client mod you're using will target the proper files.
 
