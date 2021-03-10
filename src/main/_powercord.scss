@@ -1,20 +1,6 @@
 @mixin badge($userID, $badgeLink) {
-    .message-2qnXI6[data-author-id="#{$userID}"] .header-23xsNx .username-1A8OIy { // Messages
-        &::after {
-            content: " ";
-            background: url($badgeLink) center/90% no-repeat;
-            padding: 0 10px 0 10px;
-            margin-left: 2px;
-        }
-    }
-    .avatar-3EQepX[data-user-id="#{$userID}"] + .headerInfo-30uryT .username-2b1r56 { // Profile Modals
-        &::after {
-            content: " ";
-            background: url($badgeLink) center/90% no-repeat;
-            padding: 0 10px 0 10px;
-            margin-left: 2px;
-        }
-    }
+    .message-2qnXI6[data-author-id="#{$userID}"] .header-23xsNx .username-1A8OIy, // Messages
+    .avatar-3EQepX[data-user-id="#{$userID}"] + .headerInfo-30uryT .username-2b1r56, // Profile Modals
     .avatar-3W3CeO[data-user-id="#{$userID}"] + .text-37NqbO .username-31C1TQ { // Friends List
         &::after {
             content: " ";
