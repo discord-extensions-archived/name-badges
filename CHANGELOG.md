@@ -8,9 +8,9 @@ I've done many split updates this version.
 Yet another enhancement update (well for me at least). Learnt something new with mixins: you can have a variable set in an attribute using them. With this information, I can make the layout of everything practically the same, I'd only have the change the name of the mixin. This makes it easier for me to add badges to other files. Here's a basic example of that:
 ```scss
 // Taking a close look, you can see how this is applied.
-@mixin messageBadge($userID, $badgeLink) {
-    .message-2qnXI6[data-author-id="#{$userID}"] {
-        .header-23xsNx .username-1A8OIy::after {
+@mixin badge($userID, $badgeLink) {
+    .message-2qnXI6[data-author-id="#{$userID}"] .header-23xsNx .username-1A8OIy {
+        &::after {
             content: " ";
             background: url($badgeLink) center/90% no-repeat;
             padding: 0 10px 0 10px;
@@ -18,8 +18,9 @@ Yet another enhancement update (well for me at least). Learnt something new with
         }
     }
 }
+
                    // $userID               $badgeLink
-@include messageBadge("399416615742996480", 'https://cdn.discordapp.com/emojis/635936642372337674.png?v=1');
+@include badge("399416615742996480", 'https://cdn.discordapp.com/emojis/635936642372337674.png?v=1');
 ```
 Following this update, I had to do some wonky copy-pasting. If your badge isn't appearing right, submit an issue request asking for a fix.
 
