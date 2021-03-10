@@ -28,7 +28,7 @@ If you don't like waiting, you can add your badge yourself! However, this proces
 ```scss
 @include badge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
 ```
-3. Replace `YOUR_USER_ID` with your user ID and replace YOUR_BADGE_IMAGE with the image url that is the badge that you'd like.
+3. Replace `YOUR_USER_ID` with your user ID and replace `YOUR_BADGE_IMAGE` with the image url that is the badge that you'd like.
 
 ## Credits 
 Thank you to [botato](https://github.com/bototo2) (aka mr cute panda) for helping me learn a bit more CSS to make it appear on at least 1 of the user modals.
