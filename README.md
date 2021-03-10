@@ -24,7 +24,7 @@ I get it, you want your **VERY OWN** custom name badge, but you may be wondering
 ## Add it Yourself
 If you don't like waiting, you can add your badge yourself! However, this process may be complicated for some people so I recommend just waiting. If you know what you're doing, proceed to follow the steps listed. If you add your badge this way, others who have this theme will not be able to see it.
 ### Powercord:
-1. Head over to `./src/main` an open `./powercord.scss`.
+1. Head over to `./src/main` an open `./_powercord.scss`.
 2. In this file, add a new line an enter:
 ```scss
 @include badge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
