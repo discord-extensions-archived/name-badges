@@ -1,5 +1,8 @@
 # v1.1.7
-Added support for BetterDiscord (as long as you're using DevilBro's plugin). Also made it where Powercord support will all be in one file instead of across multiple. Also added badges to friends list on Powercord.
+I've done many split updates this version.
+- Added support for BetterDiscord. You will need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)** for this to work properly.
+- Added badge support to friends list on Powercord. On the topic of Powercord, now everything is inside of one file instead of spilt across multiple. 
+- Finally, all users will be in ONE file instead of me having to copy-paste across multiple. This makes it SOOOOO MUCH EASIER for me to add people's badges!
 
 # v1.1.6
 Yet another enhancement update (well for me at least). Learnt something new with mixins: you can have a variable set in an attribute using them. With this information, I can make the layout of everything practically the same, I'd only have the change the name of the mixin. This makes it easier for me to add badges to other files. Here's a basic example of that:
