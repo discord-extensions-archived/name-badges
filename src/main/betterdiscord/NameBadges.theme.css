@@ -430,3 +430,30 @@
   padding: 0 10px 0 10px;
   margin-left: 2px;
 }
+#app-mount [user_by_bdfdb="468922513410490368"] .header-23xsNx .username-1A8OIy::after, #app-mount [user_by_bdfdb="468922513410490368"].userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child::after,
+#app-mount [user_by_bdfdb="468922513410490368"] .nameTag-m8r81H .username-3gJmXY::after,
+#app-mount [user_by_bdfdb="468922513410490368"] .name-uJV0GL .roleColor-rz2vM0::after,
+#app-mount [user_by_bdfdb="468922513410490368"] .name-uJV0GL .overflow-WK9Ogt::after {
+  content: " ";
+  background: url("https://cdn.discordapp.com/attachments/747175904878526568/819376432593371176/saturn-planet.png") center/90% no-repeat;
+  padding: 0 10px 0 10px;
+  margin-left: 2px;
+}
+#app-mount [user_by_bdfdb="249877580180750336"] .header-23xsNx .username-1A8OIy::after, #app-mount [user_by_bdfdb="249877580180750336"].userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child::after,
+#app-mount [user_by_bdfdb="249877580180750336"] .nameTag-m8r81H .username-3gJmXY::after,
+#app-mount [user_by_bdfdb="249877580180750336"] .name-uJV0GL .roleColor-rz2vM0::after,
+#app-mount [user_by_bdfdb="249877580180750336"] .name-uJV0GL .overflow-WK9Ogt::after {
+  content: " ";
+  background: url("https://i.imgur.com/rC5TAWU.gif") center/90% no-repeat;
+  padding: 0 10px 0 10px;
+  margin-left: 2px;
+}
+#app-mount [user_by_bdfdb="708550161659592734"] .header-23xsNx .username-1A8OIy::after, #app-mount [user_by_bdfdb="708550161659592734"].userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child::after,
+#app-mount [user_by_bdfdb="708550161659592734"] .nameTag-m8r81H .username-3gJmXY::after,
+#app-mount [user_by_bdfdb="708550161659592734"] .name-uJV0GL .roleColor-rz2vM0::after,
+#app-mount [user_by_bdfdb="708550161659592734"] .name-uJV0GL .overflow-WK9Ogt::after {
+  content: " ";
+  background: url("https://i.imgur.com/Yu0oS1Y_d.png") center/90% no-repeat;
+  padding: 0 10px 0 10px;
+  margin-left: 2px;
+}
