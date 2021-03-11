@@ -421,3 +421,12 @@
   padding: 0 10px 0 10px;
   margin-left: 2px;
 }
+#app-mount [user_by_bdfdb="395205580668534785"] .header-23xsNx .username-1A8OIy::after, #app-mount [user_by_bdfdb="395205580668534785"].userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child::after,
+#app-mount [user_by_bdfdb="395205580668534785"] .nameTag-m8r81H .username-3gJmXY::after,
+#app-mount [user_by_bdfdb="395205580668534785"] .name-uJV0GL .roleColor-rz2vM0::after,
+#app-mount [user_by_bdfdb="395205580668534785"] .name-uJV0GL .overflow-WK9Ogt::after {
+  content: " ";
+  background: url("https://cdn.discordapp.com/emojis/788776604167962624.gif?v=1") center/90% no-repeat;
+  padding: 0 10px 0 10px;
+  margin-left: 2px;
+}
