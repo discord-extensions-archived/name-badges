@@ -2,8 +2,8 @@
 name: Badge Request
 about: Request a badge for your user!
 title: BADGE REQUEST [USERNAME#0001]
-labels: badge request
-assignees: LuckFire
+labels: ''
+assignees: ''
 
 ---
 
