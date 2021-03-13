@@ -1,7 +1,7 @@
 ---
 name: Change Badge Request
 about: Request your badge to be updated!
-title: ''
+title: CHANGE BADGE REQUEST [USERID]
 labels: badge request
 assignees: LuckFire
 
