@@ -3,7 +3,7 @@
     "description": "Some nice custom badges for next to usernames.",
     "version": "1.1.8",
     "author": "LuckFire#4800",
-    "theme": "./src/main/_vizality.scss",
+    "theme": "./src/main/_powercord.scss",
     "consent": "false",
     "license": "MIT"
 }
