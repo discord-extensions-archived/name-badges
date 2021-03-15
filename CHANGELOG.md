@@ -1,5 +1,5 @@
 # v1.1.9
-Badges will now appear on the left side and not the right side. I've also changed some of the classes and attributes, allowing badges to appear in more areas such as message search and pinned messages.
+Badges will now appear on the left side and not right. I felt this was a good change, but I may revert it if enough people ask. (please spare me from that hell..) I've also changed some of the classes and attributes to be "better". Badges should now also appear in pinned messages + message searching.
 
 # v1.1.8
 Added badge support to the beginning of DMs. This will only appear on Vizality and Powercord. I also changed how the SCSS compiles into CSS, should clear up a few excess lines. Might revert this later on depending on if it causes poor performance.
