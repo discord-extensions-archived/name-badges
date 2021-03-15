@@ -20,7 +20,7 @@
         }
     }
 
-    .wrapper-3t9DeA[data-user-id] .header-3uLluP { // Start of DMs
+    .wrapper-3t9DeA[data-user-id] + .header-3uLluP { // Start of DMs
         &::before {
             padding: 0 15px 0 15px;
             margin-right: 3px;
