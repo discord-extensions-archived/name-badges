@@ -1,12 +1,29 @@
 @mixin badge($userID, $badgeLink) {
     .message-2qnXI6[data-author-id="#{$userID}"] .header-23xsNx .username-1A8OIy, // Messages
     .avatar-3EQepX[data-user-id="#{$userID}"] + .headerInfo-30uryT .username-2b1r56, // Profile Modals
-    .avatar-3W3CeO[data-user-id="#{$userID}"] + .text-37NqbO .username-31C1TQ { // Friends List
+    .avatar-3W3CeO[data-user-id="#{$userID}"] + .text-37NqbO .username-31C1TQ, // Friends List
+    .wrapper-3t9DeA[data-user-id="#{$userID}"] + .header-3uLluP { // Beginning of DMs
         &::after {
             content: " ";
             background: url($badgeLink) center/90% no-repeat;
+        }
+    }
+}
+
+#app-mount {
+    .header-23xsNx .username-1A8OIy, // Messages
+    .headerInfo-30uryT .username-2b1r56, // Profile Modals
+    .text-37NqbO .username-31C1TQ { // Friends List
+        &::after {
             padding: 0 10px 0 10px;
             margin-left: 2px;
+        }
+    }
+
+    .header-3uLluP { // Beginning of DMs
+        &::after {
+            padding: 0 15px 0 15px;
+            margin-left: 5px;
         }
     }
 }

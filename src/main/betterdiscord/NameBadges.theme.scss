@@ -1,6 +1,6 @@
 /**
     * @name NameBadges
-    * @version 1.2.7
+    * @version 1.2.8
     * @description Some nice custom badges for next to usernames.
     * @author LuckFire#4800
     *
@@ -18,9 +18,20 @@
             &::after {
                 content: " ";
                 background: url($badgeLink) center/90% no-repeat;
-                padding: 0 10px 0 10px;
-                margin-left: 2px;
             }
+        }
+    }
+}
+
+#app-mount {
+    .header-23xsNx .username-1A8OIy, // Messages
+    &.userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child, // User Popout Modals
+    .nameTag-m8r81H .username-3gJmXY, // Profile Modals
+    .name-uJV0GL .roleColor-rz2vM0, // Memberlist
+    .name-uJV0GL .overflow-WK9Ogt { // DMs List
+        &::after {
+            padding: 0 10px 0 10px;
+            margin-left: 2px;
         }
     }
 }

@@ -5,13 +5,33 @@
         .nameTag-m8r81H .username-3gJmXY, // Profile Modals
         .name-uJV0GL .roleColor-rz2vM0, // Memberlist
         .name-uJV0GL .overflow-WK9Ogt, // DMs List
-        &.avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56 { // Friends List
+        &.avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56, // Friends List
+        &.wrapper-3t9DeA + .header-3uLluP { // Beginning of DMs
             &::after {
                 content: " ";
                 background: url($badgeLink) center/90% no-repeat;
-                padding: 0 10px 0 10px;
-                margin-left: 2px;
             }
+        }
+    }
+}
+
+#app-mount {
+    .header-23xsNx .username-1A8OIy, // Messages
+    .userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child, // User Popout Modals
+    .nameTag-m8r81H .username-3gJmXY, // Profile Modals
+    .name-uJV0GL .roleColor-rz2vM0, // Memberlist
+    .name-uJV0GL .overflow-WK9Ogt, // DMs List
+    .avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56 { // Friends List
+        &::after {
+            padding: 0 10px 0 10px;
+            margin-left: 2px;
+        }
+    }
+    
+    .wrapper-3t9DeA + .header-3uLluP { // Beginning of DMs
+        &::after {
+            padding: 0 15px 0 15px;
+            margin-left: 5px;
         }
     }
 }

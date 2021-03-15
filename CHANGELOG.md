@@ -1,3 +1,6 @@
+# v1.1.8
+Added badge support to the beginning of DMs. This will only appear on Vizality and Powercord. I also changed how the SCSS compiles into CSS, should clear up a few excess lines. Might revert this later on depending on if it causes poor performance.
+
 # v1.1.7
 I've done many split updates this version.
 - Added support for BetterDiscord. You will need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)** for this to work properly.

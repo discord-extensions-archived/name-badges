@@ -1,9 +1,9 @@
 {
     "name": "Name Badges",
     "description": "Some nice custom badges for next to usernames.",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "author": "LuckFire#4800",
-    "theme": "./src/main/_powercord.scss",
+    "theme": "./src/main/_vizality.scss",
     "consent": "false",
     "license": "MIT"
 }
