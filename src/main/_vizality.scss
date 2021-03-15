@@ -1,37 +1,46 @@
 @mixin badge($userID, $badgeLink) {
     [vz-user-id="#{$userID}"] {
         .header-23xsNx .username-1A8OIy, // Messages
-        &.userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child, // User Popout Modals
+        &.userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA .username-2b1r56, // User Popout Modals
         .nameTag-m8r81H .username-3gJmXY, // Profile Modals
         .name-uJV0GL .roleColor-rz2vM0, // Memberlist
         .name-uJV0GL .overflow-WK9Ogt, // DMs List
         &.avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56, // Friends List
         &.wrapper-3t9DeA + .header-3uLluP { // Beginning of DMs
-            &::after {
-                content: " ";
+            &::before {
+                content: "";
                 background: url($badgeLink) center/90% no-repeat;
             }
         }
     }
 }
 
-#app-mount {
+#app-mount [vz-user-id] {
     .header-23xsNx .username-1A8OIy, // Messages
-    .userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA span:last-child, // User Popout Modals
+    &.userPopout-3XzG_A .header-2BwW8b .headerText-2sdzFM .headerTag-2pZJzA .username-2b1r56, // User Popout Modals
     .nameTag-m8r81H .username-3gJmXY, // Profile Modals
-    .name-uJV0GL .roleColor-rz2vM0, // Memberlist
-    .name-uJV0GL .overflow-WK9Ogt, // DMs List
-    .avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56 { // Friends List
-        &::after {
+    &.avatar-3W3CeO + .text-37NqbO .discordTag-2_tqUA .username-2b1r56 { // Friends List
+        &::before {
             padding: 0 10px 0 10px;
-            margin-left: 2px;
+            margin-right: 4px;
         }
     }
-    
-    .wrapper-3t9DeA + .header-3uLluP { // Beginning of DMs
-        &::after {
+
+    .name-uJV0GL {
+        .overflow-WK9Ogt, // DMS list
+        .roleColor-rz2vM0 { // Memberslist
+            &::before {
+                padding: 0 8px 0 8px;
+                margin-right: 4px;
+            }
+        }
+    }
+
+    &.wrapper-3t9DeA + .header-3uLluP { // Start of DMs
+        &::before {
             padding: 0 15px 0 15px;
-            margin-left: 5px;
+            margin-right: 3px;
+            margin-left: 1px
         }
     }
 }

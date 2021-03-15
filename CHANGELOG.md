@@ -1,8 +1,11 @@
+# v1.1.9
+Badges will now appear on the left side and not the right side. I've also changed some of the classes and attributes, allowing badges to appear in more areas such as message search and pinned messages.
+
 # v1.1.8
 Added badge support to the beginning of DMs. This will only appear on Vizality and Powercord. I also changed how the SCSS compiles into CSS, should clear up a few excess lines. Might revert this later on depending on if it causes poor performance.
 
 # v1.1.7
-I've done many split updates this version.
+There were many split updates along this version, basically just me changing things up.
 - Added support for BetterDiscord. You will need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)** for this to work properly.
 - Added badge support to friends list on Powercord. On the topic of Powercord, now everything is inside of one file instead of spilt across multiple. 
 - Finally, all users will be in ONE file instead of me having to copy-paste across multiple. This makes it SOOOOO MUCH EASIER for me to add people's badges!
