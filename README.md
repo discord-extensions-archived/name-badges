@@ -12,7 +12,7 @@ For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/
 git clone https://github.com/Discord-Theme-Addons/discord-name-badges
 ```
 
-**For BetterDiscord:**
+#### For BetterDiscord:
 In order for this to work on BetterDiscord, you will need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I don't reccomend using this as it can cause performance issues due to it not being optimized that well. Proceed at your own risk.
 - [Direct Download](https://betterdiscord.net/ghdl?id=3555)
 - [View Source](https://raw.githack.com/Discord-Theme-Addons/discord-name-badges/main/src/main/betterdiscord/NameBadges.theme.css)
