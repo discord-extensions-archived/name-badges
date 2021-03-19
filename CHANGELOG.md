@@ -1,5 +1,5 @@
 # v1.2.0
-Updated which classes are used as well as fixing some changes I missed from a previous update. The way classes are used may more scuffed, but I feel like comparing to the way it was done previously that it's better. There's a chance I may revert that part of this update.
+Added some changes I missed from a previous update to Vizality and BetterDiscord, as well as changing the classes that are used. I feel like this change was needed as the way it was done before looked pretty wonky, it may look worse but compared to before I feel like it's way better. Small change I may revert that part of this update.
 
 # v1.1.9
 Badges will now appear on the left side and not right. I felt this was a good change, but I may revert it if enough people ask. (please spare me from that hell..) I've also changed some of the classes and attributes to be "better". Badges should now also appear in pinned messages + message searching.
