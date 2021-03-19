@@ -1,3 +1,6 @@
+# v1.2.0
+Updated which classes are used as well as fixing some changes I missed from a previous update. The way classes are used may more scuffed, but I feel like comparing to the way it was done previously that it's better. There's a chance I may revert that part of this update.
+
 # v1.1.9
 Badges will now appear on the left side and not right. I felt this was a good change, but I may revert it if enough people ask. (please spare me from that hell..) I've also changed some of the classes and attributes to be "better". Badges should now also appear in pinned messages + message searching.
 
@@ -15,8 +18,8 @@ Yet another enhancement update (well for me at least). Learnt something new with
 ```scss
 // Taking a close look, you can see how this is applied.
 @mixin badge($userID, $badgeLink) {
-    .message-2qnXI6[data-author-id="#{$userID}"] .header-23xsNx .username-1A8OIy {
-        &::after {
+    [data-author-id="#{$userID}"].message-2qnXI6 .contents-2mQqc9 h2 .username-1A8OIy {
+        &::before {
             content: " ";
             background: url($badgeLink) center/90% no-repeat;
             padding: 0 10px 0 10px;
@@ -25,8 +28,8 @@ Yet another enhancement update (well for me at least). Learnt something new with
     }
 }
 
-                   // $userID               $badgeLink
-@include badge("399416615742996480", 'https://cdn.discordapp.com/emojis/635936642372337674.png?v=1');
+            // $userID               $badgeLink
+@include badge("399416615742996480", "https://cdn.discordapp.com/emojis/635936642372337674.png?v=1");
 ```
 Following this update, I had to do some wonky copy-pasting. If your badge isn't appearing right, submit an issue request asking for a fix.
 
