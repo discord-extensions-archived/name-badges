@@ -28,7 +28,7 @@ If you know what you're doing, you can proceed to follow the steps listed below.
 1. Head over to `./src/main` an open `./_users.scss`.
 2. All the way at the bottom, make a new line and enter:
 ```scss
-@include badge("YOUR_USER_ID", 'YOUR_BADGE_IMAGE');
+@include badge("YOUR_USER_ID", "YOUR_BADGE_IMAGE");
 ```
 3. Replace `YOUR_USER_ID` with your user id and replace `YOUR_BADGE_IMAGE` with the image url that is the badge that you'd like.
 
