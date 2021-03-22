@@ -1,6 +1,6 @@
 @mixin badge($userID, $badgeLink) {
     [vz-user-id="#{$userID}"] {
-        &.message-2qnXI6 .contents-2mQqc9 h2 .username-1A8OIy, // Messages
+        &.wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy, // Messages
         &.userPopout-3XzG_A .header-2BwW8b .username-2b1r56, // User Popout Modals
         &.root-SR8cQa header .username-3gJmXY, // Profile Modals
         &.member-3-YXUe .roleColor-rz2vM0, // Memberlist
@@ -16,7 +16,7 @@
 }
 
 #app-mount [vz-user-id] {
-    &.message-2qnXI6 .contents-2mQqc9 h2 .username-1A8OIy, // Messages
+    &.wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy, // Messages
     &.userPopout-3XzG_A .header-2BwW8b .username-2b1r56, // User Popout Modals
     &.root-SR8cQa header .username-3gJmXY, // Profile Modals
     &.avatar-3W3CeO + div .discordTag-2_tqUA .username-2b1r56 { // Friends List
