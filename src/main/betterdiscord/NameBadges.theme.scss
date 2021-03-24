@@ -16,7 +16,7 @@
         &.member-3-YXUe .roleColor-rz2vM0, // Memberlist
         &.channel-2QD9_O .name-uJV0GL div { // DMs List
             &::before {
-                content: " ";
+                content: "";
                 background: url($badgeLink) center/100% no-repeat;
             }
         }
