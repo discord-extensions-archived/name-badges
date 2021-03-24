@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /**
     * @name NameBadges
     * @version 1.2.0
@@ -8,6 +7,7 @@
     * @website https://github.com/Discord-Theme-Addons
     * @source https://github.com/Discord-Theme-Addons/discord-name-badges/tree/main/src
 **/
+
 #app-mount [user_by_bdfdb].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
 #app-mount [user_by_bdfdb].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
 #app-mount [user_by_bdfdb].root-SR8cQa header .username-3gJmXY::before {
