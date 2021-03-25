@@ -20,6 +20,7 @@ In order for this to work on BetterDiscord, you will need DevilBro's **[Plugin L
 ## Badge Request
 I get it, you want your **VERY OWN** custom name badge. You may be wondering to yourself "omGGGG lucKFiEr HOw to gEt the CoOLeSt NamE bADgE/!?!" Well.. the process is a lot simpler than you would think. All you have to do is make an **[issue request](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new/choose)** using the right template. If you're first time requesting a badge, make sure you use the "Badge Request" template. If you're updating your badge, use the "Change Badge Request" template. As soon as I can, either Hoofer or I will update to give you your badge. Be on the lookout for your badge being added, because usually we will close the issue request and comment on it when it is added. Once your badge is added, please make sure you update the theme so it appears!
 - **Please make sure your image is hosted on a trusted domain (such as i.imgur or cdn.discordapp) and that they are the same width by height so it wont look off.**
+- **Please do NOT make a pull request adding your badge. It's easier for me to just add it along with others, especially when you don't compile the source for BetterDiscord.**
 
 ## Add it Yourself
 If you're impatient and don't like waiting, you can add your badge yourself! However, for some people this process may be complicated, so I recommend waiting. Please note that others who have this theme will not be able to see your badge since it's added through your end. 
