@@ -1,3 +1,6 @@
+# v1.2.1
+Badges now appear in Mutal Friends on the profile modal for Powercord and Vizality.
+
 # v1.2.0
 Added some changes I missed from a previous update to Vizality and BetterDiscord, as well as changing the classes that are used. I feel like this change was needed as the way it was done before looked pretty wonky, it may look worse but compared to before I feel like it's way better. Small chance I may revert that part of this update.
 

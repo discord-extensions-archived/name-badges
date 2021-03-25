@@ -6,7 +6,8 @@
         &.member-3-YXUe .roleColor-rz2vM0, // Memberlist
         &.channel-2QD9_O .name-uJV0GL div, // DMs List
         &.avatar-3W3CeO + div .discordTag-2_tqUA .username-2b1r56, // Friends List
-        &.wrapper-3t9DeA + h1 { // Beginning of DMs
+        &.wrapper-3t9DeA + h1, // Beginning of DMs
+        &.wrapper-3t9DeA + div .username-2b1r56 { // Mututal Friends
             &::before {
                 content: "";
                 background: url($badgeLink) center/100% no-repeat;
@@ -39,6 +40,13 @@
             padding: 0 15px 0 15px;
             margin-right: 3px;
             margin-left: 1px
+        }
+    }
+
+    &.wrapper-3t9DeA + div .username-2b1r56 { // Mututal Friends
+        &::before {
+            padding: 0 8px 0 8px;
+            margin-right: 4px;
         }
     }
 }
