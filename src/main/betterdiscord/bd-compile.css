@@ -709,3 +709,23 @@
     content: "";
     background: url("https://i.imgur.com/b0bFhqW.png") center/100% no-repeat;
 }
+
+/* Orangemn6#9427 */
+[user_by_bdfdb="755856191959334932"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="755856191959334932"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="755856191959334932"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="755856191959334932"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="755856191959334932"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://cdn.discordapp.com/attachments/809209611676024894/824833255680507944/web.png") center/100% no-repeat;
+}
+
+/* ༄Samomen#1231 */
+[user_by_bdfdb="711325368333893722"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="711325368333893722"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="711325368333893722"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="711325368333893722"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="711325368333893722"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://cdn.discordapp.com/emojis/635936642372337674.png?v=1") center/100% no-repeat;
+}
