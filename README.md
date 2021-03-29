@@ -37,4 +37,4 @@ If you know what you're doing, you can proceed to follow the steps listed below.
 A big thank you to everyone who helped with this!
 - **[botato](https://github.com/bototo2)** (aka the CUTEST panda in the world) for helping me learn more CSS to make badges appear on the user profile popout modal. 
 - **[Hoofer](https://github.com/HooferDevelops)** for helping me maintain this as well as adding basic Vizality support.
-- **[Snapperito](https://github.com/Snapperito)** for touching up the readme by fixing grammar issues.
+- **[Snapperito](https://github.com/Snapperito)** for touching up the readme by issues with the grammar.
