@@ -617,7 +617,7 @@
 [user_by_bdfdb="325254775828512778"].member-3-YXUe .roleColor-rz2vM0::before,
 [user_by_bdfdb="325254775828512778"].channel-2QD9_O .name-uJV0GL div::before {
     content: "";
-    background: url("https://i.imgur.com/bAydez6.jpeg") center/100% no-repeat;
+    background: url("https://i.imgur.com/M4NrT4r.png") center/100% no-repeat;
 }
 
 /* mugman#5453 */
@@ -758,4 +758,24 @@
 [user_by_bdfdb="299693897859465228"].channel-2QD9_O .name-uJV0GL div::before {
     content: "";
     background: url("https://cdn.discordapp.com/attachments/806251935543459870/825908194789425163/LogoTransparent.png") center/100% no-repeat;
+}
+
+/* Neppu#6552 */
+[user_by_bdfdb="825479331794649148"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="825479331794649148"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="825479331794649148"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="825479331794649148"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="825479331794649148"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://cdn.discordapp.com/emojis/353610999632363535.png?v=1") center/100% no-repeat;
+}
+
+/* Maddox#5145 */
+[user_by_bdfdb="558553662910234625"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="558553662910234625"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="558553662910234625"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="558553662910234625"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="558553662910234625"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://cdn.discordapp.com/attachments/787393127484096565/826529184800964618/pokemon_ultra_moon_icon_by_luismgalindo_dbswcgb-fullview.png") center/100% no-repeat;
 }
