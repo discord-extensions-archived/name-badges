@@ -779,3 +779,23 @@
     content: "";
     background: url("https://cdn.discordapp.com/attachments/787393127484096565/826529184800964618/pokemon_ultra_moon_icon_by_luismgalindo_dbswcgb-fullview.png") center/100% no-repeat;
 }
+
+/* Maroxy#4964 */
+[user_by_bdfdb="82662823523516416"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="82662823523516416"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="82662823523516416"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="82662823523516416"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="82662823523516416"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://i.imgur.com/2oxNPUW.png") center/100% no-repeat;
+}
+
+/* jewdev#8485 */
+[user_by_bdfdb="222369866529636353"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="222369866529636353"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="222369866529636353"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="222369866529636353"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="222369866529636353"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://i.imgur.com/1EI78Ux.gif") center/100% no-repeat;
+}
