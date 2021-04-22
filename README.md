@@ -22,7 +22,7 @@ I get it, you want your **VERY OWN** custom name badge. You may be wondering to 
 - **Please make sure your image is hosted on a trusted domain (such as i.imgur or cdn.discordapp) and that they are the same width by height so it wont look off.**
 - **Please do NOT make a pull request adding your badge. It's easier for me to just add it along with others, especially when you don't compile the source for BetterDiscord.**
 
-## Add it Yourself
+## Add it Yourself (POWERCORD AND VIZALITY ONLY)
 If you're impatient and don't like waiting, you can add your badge yourself! However, for some people this process may be complicated, so I recommend waiting. Please note that others who have this theme will not be able to see your badge since it's added through your end. 
 
 If you know what you're doing, you can proceed to follow the steps listed below.

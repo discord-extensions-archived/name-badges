@@ -1,3 +1,6 @@
+# v1.2.2
+Changed imports to use `./_users.scss` instead of `./users`. This should hopefully prevent & fix any issues with operating system types, assuming that was the issue to begin with. This hopefully will resolve [pull #85](https://github.com/Discord-Theme-Addons/discord-name-badges/pull/85).
+
 # v1.2.1
 Split updates for this version, I don't feel like a version bump is that necessary for a small change.
 - Badges now appear in Mutal Friends on the profile modal for Powercord and Vizality. 
