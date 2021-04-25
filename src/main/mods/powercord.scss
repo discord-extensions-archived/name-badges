@@ -1,0 +1,15 @@
+@import '../_positioning.scss';
+
+@import '../_users.scss';
+@each $userID, $badgeLink in $users {
+    [data-user-id='#{$userID}'] {
+        + h1, // Beginning of DMS
+        .username-1A8OIy, // Messaegs
+        + div .username-2b1r56 { // Profile Modals, Mutual Friends & Friends List
+            &::before {
+                content: '';
+                background: url($badgeLink) center/100% no-repeat;
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+@import '../_positioning.scss';
+
+@import '../_users.scss';
+@each $userID, $badgeLink in $users {
+    [vz-user-id='#{$userID}'] {
+        .username-1A8OIy, // Messaegs
+        .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56, // User Popout & Modal
+        .roleColor-rz2vM0, // Members List
+        .overflow-WK9Ogt, // DMs List
+        + h1, // Beginning of DMS
+        + div .username-2b1r56 { // Mutual Friends & Friends List
+            &::before {
+                content: '';
+                background: url($badgeLink) center/100% no-repeat;
+            }
+        }
+    }
+}

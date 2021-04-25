@@ -1,3 +1,9 @@
+# v1.3.0
+Some minor adjustments / changes:
+- A lot less specific on what classes are used.
+- Switched to `@each` from `@mixins`. I feel like this is a way better system, tho generally it does the same thing.
+- Some file structure recostruction.
+
 # v1.2.2
 Changed imports to use `./_users.scss` instead of `./users`. This should hopefully prevent & fix any issues with operating system types, assuming that was the issue to begin with. This hopefully will resolve [pull #85](https://github.com/Discord-Theme-Addons/discord-name-badges/pull/85).
 
