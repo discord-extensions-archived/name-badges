@@ -746,3 +746,19 @@
     content: "";
     background: url("https://cdn.discordapp.com/emojis/842591250171691008.gif") center/100% no-repeat;
 }
+
+[data-user-id="605764872856403978"] .username-1A8OIy::before,
+[data-user-id="605764872856403978"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
+[data-user-id="605764872856403978"] .roleColor-rz2vM0::before,
+[data-user-id="605764872856403978"] .overflow-WK9Ogt::before {
+    content: "";
+    background: url("https://i.imgur.com/0zLljHh.png") center/100% no-repeat;
+}
+
+[data-user-id="836737917870669855"] .username-1A8OIy::before,
+[data-user-id="836737917870669855"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
+[data-user-id="836737917870669855"] .roleColor-rz2vM0::before,
+[data-user-id="836737917870669855"] .overflow-WK9Ogt::before {
+    content: "";
+    background: url("https://i.imgur.com/d352wBt.png") center/100% no-repeat;
+}
