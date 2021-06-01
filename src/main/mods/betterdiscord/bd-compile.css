@@ -770,3 +770,11 @@
     content: '';
     background: url("https://cdn.discordapp.com/emojis/769907793368317952.png") center/100% no-repeat;
 }
+
+[data-user-id='526783861812756490'] .username-1A8OIy::before,
+[data-user-id='526783861812756490'] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
+[data-user-id='526783861812756490'] .roleColor-rz2vM0::before,
+[data-user-id='526783861812756490'] .overflow-WK9Ogt::before {
+    content: '';
+    background: url("https://cdn.discordapp.com/emojis/800419736013111296") center/100% no-repeat;
+}
