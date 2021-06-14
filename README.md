@@ -12,9 +12,9 @@ For **[Powercord](http://powercord.dev/)** installation, **locate and head over 
 git clone https://github.com/Discord-Theme-Addons/name-badges
 ```
 
-For **[BetterDiscord](http://betterdiscord.app/)** installation, you will need **[DevilBro's Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I do not recommend the sue of this, as it can possibly cause performance issues due to it not being optimized that well. Proceed at your own risk.
-- [Direct Download]()
-- [View Source]()
+For **[BetterDiscord](http://betterdiscord.app/)** installation, you will need **[DevilBro's Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I do not recommend the use of this, as it can possibly cause performance issues due to it not being optimized that well. Proceed at your own risk.
+- [Direct Download](https://github.com/Discord-Theme-Addons/name-badges/releases/download/1.4.0/NameBadges.theme.css)
+- [View Source](https://discord-theme-addons.github.io/name-badges/src/betterdiscord/NameBadges.theme.css)
 
 ## Badge Request
 To request your **VERY OWN** custom badge, make an **[issue](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new/choose)** using the "Request a Badge" template. Before submitting, please make sure you do the following:
