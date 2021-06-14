@@ -1,32 +1,33 @@
 ![Banner](./assets/banner.png)
 
-# Discord Name Badges
-Some nice custom badges for next to usernames. If you want your **OWN, COOL, and AMAZING** custom badge, please read the **[badge request](https://github.com/Discord-Theme-Addons/discord-name-badges#badge-request)** segment of this readme.
+# Name badges
+Some nice custom badges for next to usernames.
+- If you'd like your own badges, please read the [badge request](https://github.com/Discord-Theme-Addons/discord-name-badges#badge-request) segment.
 
-![Preview](./screenshots/UsermodalPreview.png)
 ![Preview](./screenshots/MessagePreview.png)
 
 ## Installation
-For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
+For **[Powercord](http://powercord.dev/)** installation, **locate and head over to your themes folder, open a terminal of choice, and enter the following:**
 ```
-git clone https://github.com/Discord-Theme-Addons/discord-name-badges
+git clone https://github.com/Discord-Theme-Addons/name-badges
 ```
 
-#### For BetterDiscord:
-In order for this to work on BetterDiscord, you will need DevilBro's **[Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I don't reccomend using this as it can cause performance issues due to it not being optimized that well. Proceed at your own risk.
-- [Direct Download](https://betterdiscord.net/ghdl?id=3670)
-- [View Source](https://raw.githack.com/Discord-Theme-Addons/discord-name-badges/main/src/main/mods/betterdiscord/NameBadges.theme.css)
+For **[BetterDiscord](http://betterdiscord.app/)** installation, you will need **[DevilBro's Plugin Library](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)**. I do not recommend the sue of this, as it can possibly cause performance issues due to it not being optimized that well. Proceed at your own risk.
+- [Direct Download]()
+- [View Source]()
 
 ## Badge Request
-I get it, you want your **VERY OWN** custom name badge. You may be wondering to yourself "omGGGG lucKFiEr HOw to gEt the CoOLeSt NamE bADgE/!?!" Well.. the process is a lot simpler than you would think. All you have to do is make an **[issue request](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new/choose)** using the right template. If you're first time requesting a badge, make sure you use the "Badge Request" template. If you're updating your badge, use the "Change Badge Request" template. As soon as I can, either Hoofer or I will update to give you your badge. Be on the lookout for your badge being added, because usually we will close the issue request and comment on it when it is added. Once your badge is added, please make sure you update the theme so it appears!
-- **Please make sure your image is hosted on a trusted domain (such as i.imgur or cdn.discordapp) and that they are the same width by height so it wont look off.**
-- **Please do NOT make a pull request adding your badge. It's easier for me to just add it along with others in a batch of users.**
+To request your **VERY OWN** custom badge, make an **[issue](https://github.com/Discord-Theme-Addons/discord-name-badges/issues/new/choose)** using the "Request a Badge" template. Before submitting, please make sure you do the following:
+- Images **MUST** be hosted on a trusted domain, such as imgur or discordapp itself. 
+- They should be the same width by height, otherwise it may look weird.
 
-## Add it Yourself (POWERCORD AND VIZALITY ONLY)
-If you're impatient and don't like waiting, you can add your badge yourself! However, for some people this process may be complicated, so I recommend waiting. Please note that others who have this theme will not be able to see your badge since it's added through your end. 
+If at any point in time you want your badge changed, please make another issue, however use the "Request Badge Change" template instead. As soon as I can, either Hoofer or I will add or update your badge. Usually, these are usually added in batches, so it may take some time as it is done manually. 
+- Please DO NOT make a pull request adding your badge, as it's easier just for me to add them in a batch of users.
 
-If you know what you're doing, you can proceed to follow the steps listed below.
-1. Head over to `./src/main` an open `./_users.scss`.
+## Add it Yourself (POWERCORD ONLY)
+If you don't want to wait for your badge to be added, you can add it yourself on your end. Only people who know what they're doing should proceed, as I won't offer any help for this.
+
+1. Head over to `./src/badges/_users.scss`.
 2. All the way at the bottom (inside of `$users:();`), make a new line and enter:
 ```scss
 $users: (

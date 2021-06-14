@@ -1,3 +1,11 @@
+# v1.4.0
+Some minor adjustments / changes.
+- Repo has been completely redone.
+    - New README & assets.
+    - Redid the file structure.
+    - Some class changes for badges being applied.
+- There is no longer any Vizality support, as I have no way to add it (for the recent rework anyways). If you're an Alpha tester for Vizality, and want to add it "properly," feel free to make a pull request doing so.
+
 # v1.3.0
 Some minor adjustments / changes:
 - A lot less specific on what classes are used.

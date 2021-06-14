@@ -1,6 +1,6 @@
 /**
     * @name Name Badges
-    * @version 1.3.0
+    * @version 1.4.0
     * @description Some nice custom badges for next to usernames.
     * @author LuckFire#4800
     *
@@ -8,4 +8,4 @@
     * @source https://github.com/Discord-Theme-Addons/name-badges/tree/main/src
 **/
 
-@import url('https://discord-theme-addons.github.io/name-badges/src/main/mods/betterdiscord/bd-compile.css');
+@import url('https://discord-theme-addons.github.io/name-badges/src/betterdiscord/bd-compile.css');

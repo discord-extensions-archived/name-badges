@@ -1,0 +1,17 @@
+@use '../badges';
+
+@each $userID, $badgeLink in badges.$users {
+    [data-user-id='#{$userID}'] {
+        .username-1A8OIy, // Messaegs
+        .nameAndDecorators-5FJ2dg .name-uJV0GL span, // Members List
+        .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt, // Private Messages List
+        &.userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY, // User Popout - No Nickname
+        &.userPopout-xaxa6l .nickname-2gQ76l // User Popout - Has Nickname
+        {
+            &::before {
+                content: '';
+                background: url($badgeLink) center/100% no-repeat;
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+@use 'badges';
+
+@each $userID, $badgeLink in badges.$users {
+    [data-author-id='#{$userID}'] .username-1A8OIy, // Messaegs
+    [data-user-id="#{$userID}"] + .header-3uLluP, // Beginning of DMs
+    [data-user-id="#{$userID}"] + .text-37NqbO .username-2b1r56, // Friends List
+    [data-user-id="#{$userID}"] + .listName-U3shDM .username-2b1r56 // Mutual Friends
+    {
+        &::before {
+            content: '';
+            background: url($badgeLink) center/100% no-repeat;
+        }
+    }
+}

@@ -1,0 +1,30 @@
+#app-mount {
+    .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt, // Private Messages List
+    .nameAndDecorators-5FJ2dg .name-uJV0GL span, // Members List
+    .listAvatar-1BbvHX + .listName-U3shDM .username-2b1r56 // Mutual Friends
+    {
+        &::before {
+            padding: 0 8px 0 8px;
+            margin-right: 4px;
+        }
+    }
+
+    .wrapper-2a6GCs h2 .username-1A8OIy, // Messages
+    .userInfo-2zN2z8 .wrapper-3t9DeA + .text-37NqbO .username-2b1r56, // Friends List
+    .userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY, // User Popout - No Nickname
+    .userPopout-xaxa6l .nickname-2gQ76l // User Popout - Has Nickname
+    {
+        &::before {
+            padding: 0 10px 0 10px;
+            margin-right: 4px;
+        }
+    }
+
+    .wrapper-3t9DeA + .header-3uLluP // Beginning of DMs 
+    {
+        &::before {
+            padding: 0 12px 0 12px;
+            margin-right: 4px;
+        }
+    }
+}
