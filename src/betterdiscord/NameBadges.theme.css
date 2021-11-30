@@ -1,11 +1,12 @@
-/**
+﻿/**
     * @name Name Badges
-    * @version 1.4.0
+    * @version 1.4.0.1
     * @description Some nice custom badges for next to usernames.
     * @author LuckFire#4800
+    * @extrabadgeadder 『AlexMango』#8429
     *
     * @website https://github.com/Discord-Theme-Addons
-    * @source https://github.com/Discord-Theme-Addons/name-badges/tree/main/src
+    * @source https://github.com/AlexGama11/name-badges/tree/Alex_Badge/src
 **/
 
-@import url('https://discord-theme-addons.github.io/name-badges/src/betterdiscord/bd-compile.css');
+@import url('https://github.com/AlexGama11/name-badges/blob/Alex_Badge/src/betterdiscord/bd-compile.css');
