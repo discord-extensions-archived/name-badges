@@ -2,7 +2,7 @@
 
 @each $userID, $badgeLink in badges.$users {
     [data-user-id='#{$userID}'] {
-        .username-1A8OIy, // Messaegs
+        .username-1A8OIy, // Messages
         .nameAndDecorators-5FJ2dg .name-uJV0GL span, // Members List
         .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt, // Private Messages List
         &.userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY, // User Popout - No Nickname
